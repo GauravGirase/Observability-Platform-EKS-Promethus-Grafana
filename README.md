@@ -9,7 +9,7 @@ It showcases how to deploy containerized microservices, expose custom applicatio
 The goal of this project is to simulate real-world cloud-native monitoring and alerting workflows used in modern DevOps and SRE teams.
 
 ## 🏗️ Architecture Overview
-![Prometheus Architecture](images/architecture.png)
+![Prometheus Architecture](./doc/images/architecture.png)
 
 
 # 🛠️  Installation & Configurations
