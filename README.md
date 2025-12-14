@@ -92,8 +92,8 @@ kubectl port-forward service/monitoring-grafana -n monitoring 8080:80
 kubectl port-forward service/alertmanager-operated -n monitoring 9093:9093
 ```
 ## 🏗️ Monitoring Dashboards
-![EKS ](.doc/images/k8s.png)
-![API-metrics](.doc/images/api_metrics.png)
+![EKS ](./doc/images/k8s.png)
+![API-metrics](./doc/images/api_metrics.png)
 
 ### 🧼 Step 5: Clean UP
 - **Uninstall helm chart**:
